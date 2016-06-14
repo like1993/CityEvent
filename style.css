@@ -1,0 +1,55 @@
+body  {
+		font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+.navbar-fixed-top {
+  padding-top: 20px;
+  }
+
+.header-nav-detail  {
+	border: none ;
+	box-shadow: none;
+	background-image: none;
+  padding-top: 0px;
+  }
+
+.container-fluid  {
+  padding-left: 0px;
+  padding-right: 0px;
+  }
+
+.navbar-default {
+  background-color: #E1E3E3;
+  }
+
+.navbar-right {
+  margin-right: 10px;
+  }
+
+#logo {
+	margin: 0 10px;
+	float: left;
+	width:150px;
+	height: 50px;
+  }
+
+/*Here starts the sing in button*/
+.sing-in-button {
+  padding: 14px 14px;
+  border: none !important;
+  background-color: #E1E3E3;
+  }
+
+.sing-in-button-li  {
+  margin-left: 10px;
+  border: none !important;
+  color: #777;
+  font-weight: 700;
+  font-size: 16px;
+  }
+
+.sing-in-button-a {
+  margin-left: 10px;
+  color: #777;
+  }
+/*Here ends the sing in button*/
