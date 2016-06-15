@@ -53,3 +53,37 @@ body  {
   color: #777;
   }
 /*Here ends the sing in button*/
+
+/*Here starts the login section*/
+/*here starts the right section*/
+.section-right-details {
+  border-left:  3px solid #000;
+  padding-left: 40px;
+  border-radius: none !important;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+.no-border-radius {
+  border-radius: 0px !important;
+}
+.login-button-detail{
+   box-shadow: 5px 5px 2px #888888;
+}
+/*Here startss the left section*/
+.icon-user-details {
+  font-size: 100px !important;
+  display:block !important;
+  text-align:center !important;
+  }
+  .section-left-details{
+    padding-top: 20px;
+  }
+
+.margin-top-bottom {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  }
+/*Here ends the left section*/
+/*Here ends the login section*/
+
+
