@@ -34,6 +34,7 @@ body  {
   }
 
 /*Here starts the sing in button*/
+
 .sing-in-button {
   padding: 14px 14px;
   border: none !important;
@@ -52,6 +53,7 @@ body  {
   margin-left: 10px;
   color: #777;
   }
+
 /*Here ends the sing in button*/
 
 /*Here starts the login section*/
@@ -62,20 +64,24 @@ body  {
   border-radius: none !important;
   padding-top: 10px;
   padding-bottom: 40px;
-}
+  }
+
 .no-border-radius {
   border-radius: 0px !important;
-}
+  }
+
 .login-button-detail{
-   box-shadow: 5px 5px 2px #888888;
-}
+  box-shadow: 5px 5px 2px #888888;
+  }
+
 /*Here startss the left section*/
-.icon-user-details {
+ .icon-user-details {
   font-size: 100px !important;
   display:block !important;
   text-align:center !important;
   }
-  .section-left-details{
+
+.section-left-details{
     padding-top: 20px;
   }
 
@@ -83,7 +89,19 @@ body  {
   margin-top: 0px !important;
   margin-bottom: 0px !important;
   }
+
 /*Here ends the left section*/
+
+@media (max-width: 768px){
+.section-right-details {
+  padding-left: 40px;
+  border-radius: none !important;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  border: none !important;
+  }
+}
+
 /*Here ends the login section*/
 
 
